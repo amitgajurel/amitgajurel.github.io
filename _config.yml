@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: GEOTECH & REMOTE SENSING with Amit Gajurel 
 description: This page is currently under construction now.
+
+layout: page
+title: aboutme
+permalink: /aboutme
+
